@@ -1,9 +1,9 @@
 # ASUS Z490M-PLUS Hackintosh - OpenCore 0.6.4
 
-<img src="https://user-images.githubusercontent.com/68537257/124525748-3997c980-ddb5-11eb-8ed6-6b3b07aeae73.png" />
+<img src="https://github.com/ViniiCh4g4s/hackintosh/blob/c663e2ff041d2f42d8b854d2ed215e85d47963dc/Images/Captura%20de%20Tela%202021-07-05%20a%CC%80s%2017.56.23.png" />
 
 
-# História
+# 1.História
 
 Esperamos que este repositório ajude outros que estão procurando fazer um hackintosh, especialmente se estiverem usando o mesmo hardware e tudo funciona exatamente como em um Mac real.
 
@@ -11,7 +11,7 @@ Sempre fui fã do sistema da Apple e já adquiri alguns macbooks de gerações p
 
 Depois de incontáveis leituras do <a href="https://dortania.github.io/OpenCore-Install-Guide/">Guia de instalação do Open Core</a>, percorrendo Reddit <a href="https://www.reddit.com/r/hackintosh/">r/hackintosh</a> e acompanhando no canal <a href="https://www.youtube.com/channel/UCPCUdJ9cRior4FZ1TEz6qdA">Dicas do Mateus</a> (/r/Hackintosh Paradise), consegui encontrar maneiras de fazer minha máquina executar o sistema MacOS. Vou compartilhar para ajudar outras pessoas, para que não cometam os mesmos erros e, com sorte, economizem muito tempo e frustação.
 
-# Especificações
+# 2.Especificações
 
 ### Hardware
 
@@ -74,16 +74,57 @@ Entradas USB
 Nada que eu tenha encontrado.
 
 
-### Testes
+## Testes
 
+### Geekbench 5 (CPU): macOS
 <table>
   <tr>
-    <td><a href=""><a/></td>
+    <td>iMac 20,2</td>
   <tr>
-    <tr>
-    <td>PHP</td>
+  <tr>
+    <td><img src="https://github.com/ViniiCh4g4s/hackintosh/blob/c663e2ff041d2f42d8b854d2ed215e85d47963dc/Images/Captura%20de%20Tela%202021-07-05%20a%CC%80s%2017.56.23.png"></td>
   <tr>
 </table>
+
+### Geekbench 5 (GPU): macOS
+<table>
+  <tr>
+    <td>iMac 20,2</td>
+  <tr>
+  <tr>
+    <td><img src="https://github.com/ViniiCh4g4s/hackintosh/blob/c663e2ff041d2f42d8b854d2ed215e85d47963dc/Images/Captura%20de%20Tela%202021-07-05%20a%CC%80s%2017.56.23.png"></td>
+  <tr>
+</table>
+
+### NVMe Speed Test: macOS
+<table>
+  <tr>
+    <td>iMac 20,2</td>
+  <tr>
+  <tr>
+    <td><img src="https://github.com/ViniiCh4g4s/hackintosh/blob/c663e2ff041d2f42d8b854d2ed215e85d47963dc/Images/Captura%20de%20Tela%202021-07-05%20a%CC%80s%2017.56.23.png"></td>
+  <tr>
+</table>
+
+### WiFi Speed Test: Fenvi 1919 vs Netgear A6210
+<table>
+  <tr>
+    <td>iMac 20,2</td>
+  <tr>
+  <tr>
+    <td><img src="https://github.com/ViniiCh4g4s/hackintosh/blob/c663e2ff041d2f42d8b854d2ed215e85d47963dc/Images/Captura%20de%20Tela%202021-07-05%20a%CC%80s%2017.56.23.png"></td>
+  <tr>
+</table>
+
+## 3.Instalação
+
+- Baixe a imagem do MacOS do site <a href="https://www.olarila.com/topic/6278-olarila-vanilla-images/">Olarilla</a>. O sistema mais atualizado na data deste post é o Big Sur 11.4;
+
+- Baixe o programa <a href="https://www.balena.io/etcher/">balenaEtcher</a> para criar um pendrive de Boot;
+
+
+
+
 
     
 
