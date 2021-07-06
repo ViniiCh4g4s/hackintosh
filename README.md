@@ -57,7 +57,7 @@ Depois de incontáveis leituras do <a href="https://dortania.github.io/OpenCore-
 
 ### SMBIOS
 
-iMac 20,2![Captura de Tela 2021-07-05 às 17 53 56](https://user-images.githubusercontent.com/68537257/124527237-fa1fac00-ddb9-11eb-917d-5fb1a150febf.png)
+iMac 20,2!
 
 ### O que está funcionando
 
@@ -78,7 +78,7 @@ Nada que eu tenha encontrado.
 
 <table>
   <tr>
-    <td><a href="https://user-images.githubusercontent.com/68537257/124527537-ae213700-ddba-11eb-8d5e-288f25952cd8.png"><a/></td>
+    <td><a href=""><a/></td>
   <tr>
     <tr>
     <td>PHP</td>
