@@ -1,6 +1,6 @@
 # ASUS Z490M-PLUS Hackintosh - OpenCore 0.6.4
 
-<img src="https://github.com/ViniiCh4g4s/hackintosh/blob/c663e2ff041d2f42d8b854d2ed215e85d47963dc/Images/Captura%20de%20Tela%202021-07-05%20a%CC%80s%2017.56.23.png" />
+<img src="https://github.com/ViniiCh4g4s/hackintosh/blob/fafe1a94fef4c1576418e1601e45501b89c657a2/Images/Captura%20de%20Tela%202022-01-10%20a%CC%80s%2016.40.13.png" />
 
 
 # 1.História
